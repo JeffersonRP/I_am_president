@@ -6,6 +6,8 @@ import time
 
 numeros_escolhidos = []
 
+# ebaaaa
+
 
 anos_poder = [0]
 
